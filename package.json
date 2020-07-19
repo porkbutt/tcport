@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "lerp": "1.0.3",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "react": "experimental",
     "react-dom": "experimental",
     "react-scripts": "3.2.0",
